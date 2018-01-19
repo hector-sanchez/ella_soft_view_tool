@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
 EllaSoftViewTool::Renderer.copyright [YOUR NAME], [MESSAGE]
+```
 
 ## Development
 
