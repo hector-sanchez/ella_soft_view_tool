@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+EllaSoftViewTool::Renderer.copyright [YOUR NAME], [MESSAGE]
 
 ## Development
 
