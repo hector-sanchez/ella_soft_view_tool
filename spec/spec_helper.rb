@@ -1,5 +1,6 @@
 require "bundler/setup"
 require "ella_soft_view_tool"
+require "string_monkey"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

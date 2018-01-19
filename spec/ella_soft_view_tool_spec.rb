@@ -1,10 +1,4 @@
 RSpec.describe EllaSoftViewTool do
-  class String
-    def html_safe
-      self
-    end
-  end
-
   it "has a version number" do
     expect(EllaSoftViewTool::VERSION).not_to be nil
   end
